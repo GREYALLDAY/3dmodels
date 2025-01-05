@@ -1,0 +1,1 @@
+Corner Brackets 20, 30, 40mm for DIN963, DIN965 [Dimensions corrected, holes sizes added] by Stebashka on Thingiverse: https://www.thingiverse.com/thing:6845284

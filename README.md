@@ -1,5 +1,14 @@
-<<<<<<< HEAD
-# 3dmodels
+# 3D Models
 =======
-## I am using this repo to maintain various 3D model files I find on the internet, models I am working on, project ideas, calculators, etc. Enjoy!
->>>>>>> aa2c911 (Add README)
+## I am using this repo to organize various 3D models for printing.
+
+### Includes:
+
+* Model files I've compiled from the Internet that I found interesting or useful
+* Project files of models I am working on
+* Project ideas
+* Calculators: Tolerance
+* Tests: Tolerance, diameter, radius
+
+
+ Enjoy!
